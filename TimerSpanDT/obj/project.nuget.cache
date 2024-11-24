@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWBZEKt5zbk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafael.guidi\\source\\repos\\TimerSpanDT\\TimerSpanDT\\TimerSpanDT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafael.guidi\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

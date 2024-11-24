@@ -1,0 +1,17 @@
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\bin\Debug\net8.0\TimerSpanDT.exe
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\bin\Debug\net8.0\TimerSpanDT.deps.json
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\bin\Debug\net8.0\TimerSpanDT.runtimeconfig.json
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\bin\Debug\net8.0\TimerSpanDT.dll
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\bin\Debug\net8.0\TimerSpanDT.pdb
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.csproj.AssemblyReference.cache
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.AssemblyInfoInputs.cache
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.AssemblyInfo.cs
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.csproj.CoreCompileInputs.cache
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpa.BF6E4938.Up2Date
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.dll
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\refint\TimerSpanDT.dll
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.pdb
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\TimerSpanDT.genruntimeconfig.cache
+C:\Users\rafael.guidi\source\repos\TimerSpanDT\TimerSpanDT\obj\Debug\net8.0\ref\TimerSpanDT.dll
